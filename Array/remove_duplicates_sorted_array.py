@@ -15,5 +15,6 @@ nums = [1,1,2,2,3]
 
 k = removeDuplicates(nums)
 
+
 print("Unique count:", k)
 print("Array after removing duplicates:", nums[:k])
