@@ -1,75 +1,133 @@
-# 🧠 LeetCode Solutions
+#  LeetCode Solutions
 
 This repository contains my solutions to **LeetCode problems** implemented in **Python**.
 The purpose of this repository is to practice **Data Structures and Algorithms (DSA)** and keep track of my progress while preparing for technical interviews.
-
 ---
 
-## 📂 Repository Structure
-
-Problems are organized based on **data structure or topic**.
+##  Repository Structure
 
 ```
-LeetCode/
+Leetcode/
 │
 ├── Array/
-│   └── sum_two_number.py
-│
+├── DP/
+├── greedy_algorithm/
+├── number/
 ├── Stack/
-│   └── 20_Valid_Parentheses.py
+├── string/
+├── Tree/
+```
+
+Each folder contains Python solutions categorized by topic.
+
+---
+
+##  Topics Covered
+
+###  Array
+- Pascal Triangle
+- Remove Duplicates from Sorted Array
+- Search Insert Position
+- Two Sum
+
+###  Dynamic Programming (DP)
+- Path Sum
+
+###  Greedy Algorithm
+- Best Time to Buy and Sell Stock
+- Majority Element
+
+###  Number
+- Valid Palindrome Number
+
+###  String
+- Excel Sheet Column Number
+- Length of Last Word
+- Longest Common Prefix
+- Roman to Integer
+- Are You Playing Banjo 
+
+###  Tree
+- Balanced Binary Tree
+- Minimum Depth of Binary Tree
+
+###  Stack
+- (More problems coming soon)
+
+---
+
+##  Tech Stack
+
+- Python 
+- VS Code
+- LeetCode
+
+---
+
+##  Objectives
+
+- Improve problem-solving skills
+- Master core DSA concepts
+- Prepare for coding interviews
+- Build consistency in daily practice
+
+---
+
+##  Progress
+
+| Topic              | Status       |
+|-------------------|-------------|
+| Array             |  Completed |
+| DP                |  Ongoing  |
+| Greedy            |  Ongoing  |
+| String            |  Ongoing  |
+| Tree              |  Ongoing  |
+| Stack             |  Pending  |
+
+---
+
+##  How to Run
+
+1. Clone the repository
+```bash
+git clone https://github.com/Rahul8243/Leetcode.git
+```
+
+2. Navigate to folder
+```bash
+cd Leetcode
+```
+
+3. Run any file
+```bash
+python filename.py
 ```
 
 ---
 
-## 📋 Solved Problems
+##  Future Plans
 
-| #  | Problem           | Topic | Language |
-| -- | ----------------- | ----- | -------- |
-| 1  | Two Sum           | Array | Python   |
-| 20 | Valid Parentheses | Stack | Python   |
-
----
-
-## 🎯 Goals
-
-* Strengthen **problem-solving skills**
-* Master **Data Structures & Algorithms**
-* Maintain a well-organized collection of coding solutions
-* Prepare for **coding interviews**
+- Add time & space complexity for each problem
+- Add optimized approaches
+- Add detailed explanations
+- Cover more topics:
+  - Graph
+  - Heap
+  - Backtracking
 
 ---
 
-## 🛠 Language
+##  Contributions
 
-* Python 🐍
-
----
-
-## 📈 Progress
-
-* Total Problems Solved: **2**
-* Easy: 1
-* Medium: 1
-* Hard: 0
-
-*(This repository will be updated regularly as I solve more problems.)*
+This is a personal learning repository. Suggestions and improvements are always welcome!
 
 ---
 
-## 🚀 Future Topics
+## 📬 Connect with Me
 
-I plan to cover more topics such as:
-
-* Arrays
-* Strings
-* Stack
-* Linked List
-* Trees
-* Graphs
-* Recursion
-* Dynamic Programming
-* Greedy Algorithms
+- GitHub: https://github.com/Rahul8243
 
 ---
 
-⭐ If you find this repository helpful, consider giving it a **star**.
+⭐ If you find this repository helpful, consider giving it a star!
+
