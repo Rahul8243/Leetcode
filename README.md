@@ -1,4 +1,4 @@
-# 🚀 LeetCode DSA Solutions
+#  LeetCode DSA Solutions
 
 A curated collection of my **LeetCode problem solutions** implemented in **Python 🐍**.
 This repository reflects my ongoing journey to master **Data Structures & Algorithms (DSA)** and prepare for **technical interviews** with a focus on clean, pattern-based problem solving.
@@ -185,7 +185,7 @@ Leetcode/
 
 ## 📬 Connect
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/Rahul8243
 
 ---
 
