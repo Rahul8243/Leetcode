@@ -1,133 +1,192 @@
-#  LeetCode Solutions
+# 🚀 LeetCode DSA Solutions
 
-This repository contains my solutions to **LeetCode problems** implemented in **Python**.
-The purpose of this repository is to practice **Data Structures and Algorithms (DSA)** and keep track of my progress while preparing for technical interviews.
+A curated collection of my **LeetCode problem solutions** implemented in **Python 🐍**.
+This repository reflects my ongoing journey to master **Data Structures & Algorithms (DSA)** and prepare for **technical interviews** with a focus on clean, pattern-based problem solving.
+
 ---
 
-##  Repository Structure
+## 📊 Progress Overview
+
+| Topic            | Problems Solved |
+| ---------------- | --------------- |
+| 📦 Array         | 12              |
+| 🔍 Binary Search | 4               |
+| 🔁 DP            | 1               |
+| 🎯 Greedy        | 2               |
+| #️⃣ Hashing      | 1               |
+| 🧮 Math          | 4               |
+| 📚 Stack         | 1               |
+| 🔤 String        | 9               |
+| 🌳 Tree          | 14              |
+| 👉 Two Pointers  | 0               |
+| **Total**        | **48**          |
+
+---
+
+## 📁 Repository Structure
 
 ```
 Leetcode/
 │
 ├── Array/
+├── Binary Search/
 ├── DP/
 ├── greedy_algorithm/
-├── number/
+├── Hashing/
+├── Math/
 ├── Stack/
 ├── string/
 ├── Tree/
-```
-
-Each folder contains Python solutions categorized by topic.
-
----
-
-##  Topics Covered
-
-###  Array
-- Pascal Triangle
-- Remove Duplicates from Sorted Array
-- Search Insert Position
-- Two Sum
-
-###  Dynamic Programming (DP)
-- Path Sum
-
-###  Greedy Algorithm
-- Best Time to Buy and Sell Stock
-- Majority Element
-
-###  Number
-- Valid Palindrome Number
-
-###  String
-- Excel Sheet Column Number
-- Length of Last Word
-- Longest Common Prefix
-- Roman to Integer
-- Are You Playing Banjo 
-
-###  Tree
-- Balanced Binary Tree
-- Minimum Depth of Binary Tree
-
-###  Stack
-- (More problems coming soon)
-
----
-
-##  Tech Stack
-
-- Python 
-- VS Code
-- LeetCode
-
----
-
-##  Objectives
-
-- Improve problem-solving skills
-- Master core DSA concepts
-- Prepare for coding interviews
-- Build consistency in daily practice
-
----
-
-##  Progress
-
-| Topic              | Status       |
-|-------------------|-------------|
-| Array             |  Completed |
-| DP                |  Ongoing  |
-| Greedy            |  Ongoing  |
-| String            |  Ongoing  |
-| Tree              |  Ongoing  |
-| Stack             |  Pending  |
-
----
-
-##  How to Run
-
-1. Clone the repository
-```bash
-git clone https://github.com/Rahul8243/Leetcode.git
-```
-
-2. Navigate to folder
-```bash
-cd Leetcode
-```
-
-3. Run any file
-```bash
-python filename.py
+├── Two Pointers/
+│
+└── README.md
 ```
 
 ---
 
-##  Future Plans
+## 🧠 Topics & Problems
 
-- Add time & space complexity for each problem
-- Add optimized approaches
-- Add detailed explanations
-- Cover more topics:
-  - Graph
-  - Heap
-  - Backtracking
+### 📦 Array
 
----
-
-##  Contributions
-
-This is a personal learning repository. Suggestions and improvements are always welcome!
-
----
-
-## 📬 Connect with Me
-
-- GitHub: https://github.com/Rahul8243
+* intersection_arrays
+* intersection_arrays_2
+* majority_element
+* merge_sorted_array
+* missing_number
+* move_zeros
+* pascal_triangle
+* pascal_triangle_2
+* remove_duplicates_sorted_array
+* remove_element
+* search_insert_position
+* sum_two_number
 
 ---
 
-⭐ If you find this repository helpful, consider giving it a star!
+### 🔍 Binary Search
 
+* first_bad_version
+* valid_perfect_square
+* search_insert_position
+* sqrt
+
+---
+
+### 🔁 Dynamic Programming (DP)
+
+* path_sum
+
+---
+
+### 🎯 Greedy Algorithm
+
+* best_time_to_buy_and_sell_stock
+* majority_element
+
+---
+
+### #️⃣ Hashing
+
+* single_number
+
+---
+
+### 🧮 Math
+
+* happy_number
+* excel_sheet_column_number
+* add_binary
+* plus_one
+
+---
+
+### 📚 Stack
+
+* valid_parentheses
+
+---
+
+### 🔤 String
+
+* isomorphic_strings
+* length_of_last_word
+* longest_common_prefix
+* reverse_string
+* reverse_vowels
+* roman_to_integer
+* valid_anagram
+* valid_palindrome
+* word_pattern
+
+---
+
+### 🌳 Tree
+
+* inorder_traversal
+* same_tree
+* symmetric_tree
+* max_depth
+* sorted_array_to_bst
+* balanced_binary_tree
+* min_depth
+* path_sum
+* preorder_traversal
+* postorder_traversal
+* count_complete_tree_nodes
+* invert_binary_tree
+* binary_tree_paths
+* closest_bst_value
+
+---
+
+### 👉 Two Pointers
+
+* (To be added)
+
+---
+
+## ⚙️ Tech Stack
+
+* **Language:** Python 🐍
+* **Platform:** LeetCode
+* **Editor:** VS Code
+
+---
+
+## 🎯 Goals
+
+* Strengthen core DSA fundamentals
+* Identify and master problem-solving patterns
+* Improve coding speed and accuracy
+* Prepare for technical interviews (FAANG-level)
+
+---
+
+## 🚀 Future Improvements
+
+* Add **time & space complexity** for each solution
+* Include **optimized approaches & variations**
+* Provide **detailed explanations**
+* Expand into advanced topics:
+
+  * Graphs
+  * Heaps / Priority Queues
+  * Backtracking
+
+---
+
+## 📌 Notes
+
+* Problems are categorized by their **primary topic**
+* Some problems may overlap multiple concepts (noted in code comments)
+* Emphasis is on **clarity, efficiency, and pattern recognition**
+
+---
+
+## 📬 Connect
+
+* GitHub: https://github.com/your-username
+
+---
+
+⭐ If you find this repository useful, consider giving it a star!
